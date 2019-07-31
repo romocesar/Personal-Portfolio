@@ -1,0 +1,22 @@
+body {
+    background-color: #d2691e;
+    margin: 0 px;
+    padding: 0 px;
+    /* Fonts will be used in this order depending on the browser availability */
+    font-family: Georgia, 'Times New Roman',
+     Times, serif;
+}
+
+h1 {
+    color: #000000;
+    background-color: #f0ffff;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.container {
+    /* Sets the max width of the content in this container */
+    width: 1024px;
+    margin: auto;
+}
